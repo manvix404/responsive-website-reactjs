@@ -29,7 +29,7 @@ function Navbar() {
       </div>       
         <div className='gpt3__navbar-sign'>
         <p>Log in</p>
-        <button type="button" a href='/login'>Sign Up</button>
+        <button type="button">Sign Up</button>
       </div>        
       <div className='gpt3__navbar-menu'>
         {toggleMenu
