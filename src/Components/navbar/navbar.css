@@ -33,7 +33,7 @@
     font-family: var(--font-family);
     font-size: 18px;
     line-height: 25px;
-    text-transform: capitalize;
+    cursor: pointer;
     margin: 0 1rem;
 }
 .gpt3__navbar-sign button,
